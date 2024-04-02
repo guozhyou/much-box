@@ -1,6 +1,6 @@
 {
   "name": "much-box",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "guozhyou",
   "repository": {
     "type": "git",
-    "url": "https://github.com/guozhyou/much-box"
+    "url": "https://github.com/guozhyou/much-box.git"
   },
   "license": "ISC",
   "dependencies": {
