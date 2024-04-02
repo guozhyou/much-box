@@ -1,6 +1,6 @@
 {
   "name": "much-box",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,9 @@
     "body-parser": "^1.20.2",
     "cheerio": "^1.0.0-rc.12",
     "cookie-parser": "^1.4.6",
+    "docxtemplater": "^3.46.2",
     "express": "^4.19.2",
+    "foo-tools": "^1.0.1",
     "hapi": "^18.1.0",
     "helmet": "^7.1.0",
     "jimp": "^0.22.12",
@@ -48,6 +50,7 @@
     "nodemailer": "^6.9.13",
     "nodemon": "^3.1.0",
     "passport": "^0.7.0",
+    "pdf2json": "^3.0.5",
     "request": "^2.88.2",
     "sequelize": "^6.37.2",
     "sharp": "^0.33.3",
