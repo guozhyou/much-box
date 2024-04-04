@@ -1,6 +1,6 @@
 {
   "name": "much-box",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,8 @@
     "cookie-parser": "^1.4.6",
     "docxtemplater": "^3.46.2",
     "express": "^4.19.2",
+    "file-nbox": "^1.0.0",
+    "files-libs": "^1.0.0",
     "foo-tools": "^1.0.1",
     "hapi": "^18.1.0",
     "helmet": "^7.1.0",

@@ -1,0 +1,1 @@
+var floatObj = require('../index');
